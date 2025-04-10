@@ -1,0 +1,2 @@
+
+[User] --> [App] --> [RDS Primary in AZ-A] <---> [RDS Standby in AZ-B]
